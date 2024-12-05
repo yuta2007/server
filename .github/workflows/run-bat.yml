@@ -13,4 +13,4 @@ jobs:
 
     - name: Run .bat script
       run: |
-        .\run.bat
+        .minecraft\run.bat
