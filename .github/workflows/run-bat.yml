@@ -1,0 +1,16 @@
+name: Run .bat Script
+
+on:
+  workflow_dispatch:  # 手动触发
+
+jobs:
+  run-bat:
+    runs-on: windows-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Run .bat script
+      run: |
+        .\run.bat
