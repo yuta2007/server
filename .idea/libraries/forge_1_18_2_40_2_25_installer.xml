@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="forge-1.18.2-40.2.25-installer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/forge-1.18.2-40.2.25-installer.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

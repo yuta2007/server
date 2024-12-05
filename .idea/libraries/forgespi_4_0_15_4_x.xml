@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="forgespi-4.0.15-4.x">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.minecraft/libraries/net/minecraftforge/forgespi/4.0.15-4.x/forgespi-4.0.15-4.x.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
