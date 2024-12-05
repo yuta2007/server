@@ -9,8 +9,9 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v3
+      uses: actions/checkout@v3  # 拉取仓库代码
 
     - name: Run .bat script
       run: |
-        .minecraft\run.bat
+        cd .minecraft
+        run.bat
